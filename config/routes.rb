@@ -9,7 +9,7 @@ Project1::Application.routes.draw do
 
   get "main/help"
 
-  # The priority is based upon order of creation:
+  # The priority is based upon order of creation
   # first created -> highest priority.
 
   # Sample of regular route:
